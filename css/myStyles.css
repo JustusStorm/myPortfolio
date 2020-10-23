@@ -1,0 +1,11 @@
+#myPicture {
+    border-radius: 50%;
+    width: 200px;
+    margin-bottom: 3rem;
+}
+
+@media (min-width:991.98px){
+    #myPicture{
+        width: 300px;
+    }
+}
